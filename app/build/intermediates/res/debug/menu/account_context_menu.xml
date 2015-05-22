@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  
+<item android:title="@string/edit_account" android:id="@+id/edit_account"></item>
+<!-- TRYING TO ADD DELETE ACCOUNT BUTTON TO ACCOUNT CONTEXT MENU ON LIST VIEW-->
+
+<item android:id="@+id/delete" android:title="@string/delete" 
+    android:icon="@android:drawable/ic_menu_delete" android:alphabeticShortcut="d"></item>
+
+<!-- <item android:id="@+id/delete" android:title="@string/delete_account"> </item> -->
+<!-- END -->
+<!-- 
+DISABLED
+<item android:title="@string/delete_account" android:id="@+id/delete"></item>
+<item android:title="@string/copy_username" android:id="@+id/copy_username"></item>
+<item android:title="@string/copy_password" android:id="@+id/copy_password"></item>
+<item android:id="@+id/launch_url" android:title="@string/launch_url"></item> -->
+
+</menu>
+<!-- From: file:/root/StudioProjects/UPM-Epassafe-master/app/src/main/res/menu/account_context_menu.xml -->

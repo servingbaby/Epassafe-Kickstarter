@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/StudioProjects/UPM-Epassafe-master/app/libs/httpmime-4.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd1973851926925e02d0bbdf4ec0f7435d8292ce">
+        <dex dex="/root/StudioProjects/UPM-Epassafe-master/app/build/intermediates/pre-dexed/release/httpmime-4.0.3-a8fc8c49f9d6579b991d953c77fb1d06c9528bfb.jar" />
+    </item>
+    <item
+        jar="/root/StudioProjects/UPM-Epassafe-master/app/libs/dropbox-android-sdk-1.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0d7408522c289637b92d3445236422927bcb6e53">
+        <dex dex="/root/StudioProjects/UPM-Epassafe-master/app/build/intermediates/pre-dexed/release/dropbox-android-sdk-1.3.1-8722fa0843651bc98e539366697dcd832b75fcea.jar" />
+    </item>
+    <item
+        jar="/root/StudioProjects/UPM-Epassafe-master/app/libs/json_simple-1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/root/StudioProjects/UPM-Epassafe-master/app/build/intermediates/pre-dexed/release/json_simple-1.1-f6778ec0fbacbba35dd239d19498e28ee6ea2812.jar" />
+    </item>
+
+</items>
